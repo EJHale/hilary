@@ -1,5 +1,5 @@
-#' Hilary.
+#' hilary.
 #'
-#' @name Hilary
+#' @name hilary
 #' @docType package
 NULL
